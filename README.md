@@ -29,7 +29,7 @@ When installed globally, you can use the `hyperspace` CLI tool to start the serv
 ```
 ❯ hyperspace --no-migrate  // Starts the server without performing the Hyperdrive daemon migration
 ```
-
+dsdsf
 The `hyperspace` command supports the following flags:
 ```
 --bootstrap   // Hyperswarm bootstrapping options (see Hyperswarm docs).
